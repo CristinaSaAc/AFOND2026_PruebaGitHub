@@ -279,3 +279,18 @@ Para reiniciar un servicio:
 ```bash 
 sudo systemctl restart "Nombre_servicio"
 ```
+
+---
+
+## Gestión de usuarios
+para realizar alguna gestión sobre los usuarios en un sistema Linux, me doy el gusto de enseñaros un par de comados de ayuda.
+
+Para asignar la contraseña a un usuario creado, usaremos:
+
+```bash
+sudo psswd "contraseña_que_queremos_asignar"
+```
+Para eliminar un usuario, usaremos el comando:
+```bash
+sudo userdel "Nombre_del_usuario"
+```
