@@ -257,3 +257,15 @@ Tranquil@ no te desesperes, por aquí te dejo el mío 🗺️ ¡No pierdas el ru
 - ***[Imágenes de referencia](https://www.google.com/search?tbnid=bsaKagDbbV-IKM&tbnh=0&tbnw=0&sca_esv=e7222caca06c9bd0&cs=0&sxsrf=APpeQnt20FxtTw2iJDcZWzCZc-Jo4dhvEw:1791806292979&udm=2&tbs=rimg:CW7GimoA221fYY38lm8gU6lo4AIA&q=imagenes+configuracion++basica+de+red&sa=X&ved=2ahUKEwjFxuPMtrSXAxWLXqQEHX5qIdEQuIIBegQIOBAA&biw=2048&bih=926&dpr=0.94)***
 
 - ***[Cables, Ethernet y fibra](https://www.data-alliance.net/es/cables-ethernet-y-fibra?srsltid=AU7gw4XtlIDxLqzZP8-EBTl-DRAhSXwWtiNrkhNtRjzlghNN2lfDR72M)***
+
+---
+
+## Comandos útiles
+Para consultar la configuración de red:
+```bash
+ip addr
+```
+Para comprobar la conectividad:
+```bash
+ping 8.8.8.8
+```
