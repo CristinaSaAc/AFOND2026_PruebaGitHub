@@ -259,6 +259,9 @@ Tranquil@ no te desesperes, por aquí te dejo el mío 🗺️ ¡No pierdas el ru
 - ***[Cables, Ethernet y fibra](https://www.data-alliance.net/es/cables-ethernet-y-fibra?srsltid=AU7gw4XtlIDxLqzZP8-EBTl-DRAhSXwWtiNrkhNtRjzlghNN2lfDR72M)***
 
 ---
+# DOCUMENTACIÓN EMPLEANDO GIT
+
+---
 
 ## Comandos útiles
 Para consultar la configuración de red:
@@ -283,7 +286,7 @@ sudo systemctl restart "Nombre_servicio"
 ---
 
 ## Gestión de usuarios
-para realizar alguna gestión sobre los usuarios en un sistema Linux, me doy el gusto de enseñaros un par de comados de ayuda.
+Para realizar alguna gestión sobre los usuarios en un sistema Linux, me doy el gusto de enseñaros un par de comados de ayuda.
 
 Para asignar la contraseña a un usuario creado, usaremos:
 
