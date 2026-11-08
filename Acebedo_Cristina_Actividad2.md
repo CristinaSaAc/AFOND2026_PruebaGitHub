@@ -259,10 +259,6 @@ Tranquil@ no te desesperes, por aquí te dejo el mío 🗺️ ¡No pierdas el ru
 - ***[Cables, Ethernet y fibra](https://www.data-alliance.net/es/cables-ethernet-y-fibra?srsltid=AU7gw4XtlIDxLqzZP8-EBTl-DRAhSXwWtiNrkhNtRjzlghNN2lfDR72M)***
 
 ---
-# INFORMACIÓN DEL PROYECTO
-Esta documentación ha sido elaborada mediante Markdown.
-
-El control de versiones se realiza mediante Git y el repositorio remoto está alojado en GitHub.
 
 ---
 
@@ -300,3 +296,15 @@ Para eliminar un usuario, usaremos el comando:
 ```bash
 sudo userdel "Nombre_del_usuario"
 ```
+
+---
+# INFORMACIÓN DEL PROYECTO
+Esta documentación ha sido elaborada mediante Markdown.
+
+El control de versiones se realiza mediante Git y el repositorio remoto está alojado en GitHub.
+---
+
+## Próximas mejoras..
+- **Realización de mejoras en el proyecto Desenrredados**
+- **Incorporación de nuevos proyectos al repositorio**
+- **Diversificación de contenido**
